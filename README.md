@@ -1,7 +1,6 @@
-(https://media.licdn.com/dms/image/C4E16AQFIgz1SjO-JSA/profile-displaybackgroundimage-shrink_350_1400/0/1652757255379?e=1681344000&v=beta&t=vDGjHKgkTzUK4VZOQEVsWYFCwiGF3rRCqwFyiEijQ_w)
+![Front End Developer](https://media.licdn.com/dms/image/C4E16AQFIgz1SjO-JSA/profile-displaybackgroundimage-shrink_350_1400/0/1652757255379?e=1681344000&v=beta&t=vDGjHKgkTzUK4VZOQEVsWYFCwiGF3rRCqwFyiEijQ_w)
 ### Hi there 👋, I'm Sarower Hasan Opu
 #### Front End Developer
-![Front End Developer]
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: HTML / CSS/BOOTSTRAP/C/JAVA/PYTHON
