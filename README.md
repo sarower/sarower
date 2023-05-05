@@ -1,12 +1,23 @@
 ![Front End Developer](https://media.licdn.com/dms/image/C4E16AQFIgz1SjO-JSA/profile-displaybackgroundimage-shrink_350_1400/0/1652757255379?e=1681344000&v=beta&t=vDGjHKgkTzUK4VZOQEVsWYFCwiGF3rRCqwFyiEijQ_w)
 ### Hi there 👋, I'm Sarower Hasan Opu
 #### Front End Developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+"To obtain an entry-level position in the field of computer science, where I can apply my knowledge, learn new skills, and contribute to the success of the organization. I am eager to work collaboratively with a team of professionals and utilize my technical skills to solve complex problems. My goal is to gain practical experience in the field and eventually become a proficient and valuable member of the organization."
 
-Skills: HTML / CSS/BOOTSTRAP/C/JAVA/PYTHON
+Skills: 
+C
+c++
+JAVA
+PYTHON
+HTML
+CSS
+BOOTSTRAP
+JavaScript
+Php
+Laravel 
+
 
 - 🔭 I’m currently working on some projects 
-- 🌱 I’m currently learning Front End Developing 
+- 🌱 I’m currently working on backend Developing 
 - 👯 I’m looking to collaborate on Foreign Projects 
 - 🤔 I’m looking for help with People to enhanced skill 
 - 💬 Ask me about Anything 
