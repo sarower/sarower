@@ -1,7 +1,7 @@
 ![Front End Developer](https://media.licdn.com/dms/image/C4E16AQFIgz1SjO-JSA/profile-displaybackgroundimage-shrink_350_1400/0/1652757255379?e=1681344000&v=beta&t=vDGjHKgkTzUK4VZOQEVsWYFCwiGF3rRCqwFyiEijQ_w)
 ### Hi there 👋, I'm Sarower Hasan Opu
 #### Front End Developer
-"To obtain an entry-level position in the field of computer science, where I can apply my knowledge, learn new skills, and contribute to the success of the organization. I am eager to work collaboratively with a team of professionals and utilize my technical skills to solve complex problems. My goal is to gain practical experience in the field and eventually become a proficient and valuable member of the organization."
+"To obtain an entry-level position in the field of developing sector, where I can apply my knowledge, learn new skills, and contribute to the success of the organization. I am eager to work collaboratively with a team of professionals and utilize my technical skills to solve complex problems. My goal is to gain practical experience in the field and eventually become a proficient and valuable member of the organization."
 
 Skills: 
 C
