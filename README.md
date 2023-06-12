@@ -1,6 +1,6 @@
 <img align ="center" width = "800" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner" />
 <h1 align="left">Hi 👋, I'm Sarower Hasan Opu</h1>
-<img align ="right" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="live coding" />
+<img align ="right" width = "300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="live coding" />
 <h3 align="left">I am Sarower Hasan Opu, And I craft high-performing and delightful experiences tailored and conversion-focused</h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarower&label=Profile%20views&color=0e75b6&style=flat" alt="sarower" /> </p>
