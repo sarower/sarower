@@ -1,4 +1,5 @@
-![Front End Developer]([https://media.licdn.com/dms/image/C4E16AQFIgz1SjO-JSA/profile-displaybackgroundimage-shrink_350_1400/0/1652757255379?e=1681344000&v=beta&t=vDGjHKgkTzUK4VZOQEVsWYFCwiGF3rRCqwFyiEijQ_w](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966))
+https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966
+![Front End Developer]
 ### Hi there 👋, I'm Sarower Hasan Opu
 #### Front End Developer
 "To obtain an entry-level position in the field of developing sector, where I can apply my knowledge, learn new skills, and contribute to the success of the organization. I am eager to work collaboratively with a team of professionals and utilize my technical skills to solve complex problems. My goal is to gain practical experience in the field and eventually become a proficient and valuable member of the organization."
